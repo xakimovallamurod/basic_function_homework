@@ -1,3 +1,5 @@
 # main nomli funksiya yarating
 
-# Haqiqiy son (float) tipidagi qiymatni qaytaring
+# Funksiya argumenti ism ni yarating
+
+# "Salom, <ism>!" ko'rinishidagi matnni qaytaring

@@ -1,4 +1,5 @@
-
 # main nomli funksiya yarating
 
-# Matn (str) tipidagi qiymatni qaytaring
+# Funksiya argumenti yosh ni yarating
+
+# yosh qiymatini birga oshirib qaytaring

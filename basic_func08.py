@@ -1,5 +1,5 @@
 # main nomli funksiya yarating
 
-# Funksiya argumenti a ni yarating
-   
-# a qiymatini birga oshirib qaytaring
+# Funksiya argumentlari ism va familiya ni yarating
+
+# familiya va ismni bo'sh joy bilan qo'shib qaytaring

@@ -1,3 +1,3 @@
 # main nomli funksiya yarating
 
-# "python foundation" qiymatini qaytaring
+# 1.78 (float) qiymatini qaytaring

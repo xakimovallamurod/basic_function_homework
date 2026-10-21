@@ -1,5 +1,5 @@
 # main nomli funksiya yarating
 
-# Funksiya argumenti a ni yarating
-   
-# a qiymatini qaytaring
+# Funksiya argumenti tugilgan_yil ni yarating
+
+# 2026 - tugilgan_yil qiymatini qaytaring

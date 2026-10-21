@@ -1,3 +1,3 @@
 # main nomli funksiya yarating
 
-# "Hello World" qiymatini qaytaring
+# 26 (int) qiymatini qaytaring

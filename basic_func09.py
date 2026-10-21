@@ -1,5 +1,5 @@
 # main nomli funksiya yarating
 
-# Funksiya argumenti a ni yarating
-    
-# a qiymatini birga kamaytirib qaytaring
+# Funksiya argumentlari narx va soni ni yarating
+
+# narx va soni ko'paytmasini qaytaring
